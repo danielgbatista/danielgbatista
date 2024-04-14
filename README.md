@@ -16,7 +16,11 @@
     🏢 I_am_currently_working = new Work("Núcleo de Tecnologia - SENAI Jandira"); 
     🌱 I_am_currently_learning = new Language("Spring Boot");
     🎨 My_favorite_hobbies = new Hobbie("Drawing cartoon or tattoo ideas");
-    🎵 My_favorite_musics = new Music({name: "21 anos", artist: "Gyylo", Genere: "RAP"});
+    🎵 My_favorite_musics = new Music({
+                name: "21 anos",
+                artist: "Gyylo",
+                Genere: "RAP"
+              });
   }
 ```
 <details>
