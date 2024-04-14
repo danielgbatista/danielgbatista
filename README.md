@@ -2,7 +2,7 @@
 
 ```zsh
   >  I am seeking an opportunity as a junior developer or intern to enhance my skills in TypeScript, JavaScript, React, Node.js and
-     CSS (Tailwind, Sass, Bootstrap, Styled Components). 
+     CSS (Tailwind and MUI components). 
      Two years of internship have equipped me to tackle challenges in new technologies and contribute to innovative projects.
 ```
 
