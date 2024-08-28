@@ -13,7 +13,7 @@
   import Music;
 
   public class AboutMy {
-    🏢 I_am_currently_working = new Work("Aberto a projetos"); 
+    🏢 I_am_currently_working = new Work("Alphacode"); 
     🌱 I_am_currently_learning = new Language("Spring Boot");
     🎨 My_favorite_hobbies = new Hobbie("Drawing cartoon or tattoo ideas");
     🎵 My_favorite_musics = new Music({
